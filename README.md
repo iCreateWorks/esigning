@@ -23,10 +23,6 @@ https://github.com/iCreateWorks/esigning/assets/50334500/ef36b377-0027-4d46-ab17
 
 https://github.com/iCreateWorks/esigning/assets/50334500/a4c77f27-8919-4f4d-84d6-260b922fb409
 
-
-
-https://github.com/iCreateWorks/esigning/assets/50334500/36639764-0064-40e6-b2d1-21953c8df05f
-
 ## Prerequisites
 
 - Java JDK 8 or higher
