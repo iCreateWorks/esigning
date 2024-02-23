@@ -24,7 +24,7 @@ https://github.com/iCreateWorks/esigning/assets/50334500/49dddfee-c9bb-4ef8-a762
 
 https://github.com/iCreateWorks/esigning/assets/50334500/a4c77f27-8919-4f4d-84d6-260b922fb409
 
-Sample loan agreement [Master-Promissory-Note.pdf](https://github.com/iCreateWorks/esigning/files/14389744/Loan-Agreement.pdf)
+Sample loan agreement: [Master-Promissory-Note.pdf](https://github.com/iCreateWorks/esigning/files/14389744/Loan-Agreement.pdf)
 
 
 ## Prerequisites
