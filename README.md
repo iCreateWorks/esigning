@@ -5,6 +5,7 @@ e-Sign Microservice is an open-source solution that allows businesses to securel
 ## Table of Contents
 
 - [Features](#features)
+- [Demo](#demo)
 - [Prerequisites](#prerequisites)
 - [Setup & Installation](#setup--installation)
 - [Environment Variables](#environment-variables)
@@ -19,11 +20,9 @@ e-Sign Microservice is an open-source solution that allows businesses to securel
 - Channel-agnostic design for seamless integration across platforms.
 
 ## Demo
-https://github.com/iCreateWorks/esigning/assets/50334500/ef36b377-0027-4d46-ab17-dde21f8909c3
+https://github.com/iCreateWorks/esigning/assets/50334500/49dddfee-c9bb-4ef8-a762-037bc38fa56c
 
 https://github.com/iCreateWorks/esigning/assets/50334500/a4c77f27-8919-4f4d-84d6-260b922fb409
-
-
 
 ## Prerequisites
 
