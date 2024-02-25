@@ -37,15 +37,15 @@ Here is the article which talks about this implementation in detail: [From Depen
 
 ## Setup & Installation
 
-1. Clone the repository:
+1. **Clone the repository:** Use the command git clone https://github.com/iCreateWorks/esigning.git to clone the repository to your local machine.
 
-2. Navigate to the project directory:
+2. N**avigate to the project directory:** Change into the project directory esigning.
  
-3. Install the required maven dependencies:
+3. **Install Maven dependencies:** Run mvn install to install the necessary dependencies.
    
-4. Set up the required [Environment Variables](#environment-variables).
+4. **Configure Environment Variables:** Set up the required environment variables as described in the [Environment Variables](#environment-variables) section. 
 
-5. Run the application:
+5. **Run the application:** Execute java -jar target/esigning-0.0.1-SNAPSHOT.jar to start the service.
    
 ## Environment Variables
 
