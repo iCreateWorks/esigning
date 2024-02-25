@@ -26,8 +26,7 @@ https://github.com/iCreateWorks/esigning/assets/50334500/a4c77f27-8919-4f4d-84d6
 
 Sample loan agreement: [Master-Promissory-Note.pdf](https://github.com/iCreateWorks/esigning/files/14389744/Loan-Agreement.pdf)
 
-Here is the article which talks about this implementation in detail: [From Dependency to Autonomy: Building an In-House E-signing Service]([https://github.com/iCreateWorks/esigning/files/14389744/Loan-Agreement.pdf](https://www.infoq.com/articles/electronic-signing-service-cloud)
-
+Here is the article which talks about this implementation in detail: [From Dependency to Autonomy: Building an In-House E-signing Service](https://www.infoq.com/articles/electronic-signing-service-cloud/)
 
 ## Prerequisites
 
