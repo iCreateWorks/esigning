@@ -1,6 +1,6 @@
 # e-Sign Microservice
 
-e-Sign Microservice is an open-source solution that allows businesses to securely sign documents online. This service is designed to offer more control, flexibility, and cost savings compared to third-party e-Signing services.
+e-Sign Microservice is an open-source solution that allows businesses to securely sign documents online. This service is designed to offer more control, flexibility, and cost savings compared to third-party e-Signing services. Here is the article which talks about this implementation in detail: [From Dependency to Autonomy: Building an In-House E-signing Service](https://www.infoq.com/articles/electronic-signing-service-cloud/)
 
 ## Table of Contents
 
@@ -26,8 +26,6 @@ https://github.com/iCreateWorks/esigning/assets/50334500/49dddfee-c9bb-4ef8-a762
 https://github.com/iCreateWorks/esigning/assets/50334500/a4c77f27-8919-4f4d-84d6-260b922fb409
 
 Sample loan agreement: [Master-Promissory-Note.pdf](https://github.com/iCreateWorks/esigning/files/14389744/Loan-Agreement.pdf)
-
-Here is the article which talks about this implementation in detail: [From Dependency to Autonomy: Building an In-House E-signing Service](https://www.infoq.com/articles/electronic-signing-service-cloud/)
 
 ## Prerequisites
 
