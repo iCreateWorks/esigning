@@ -13,11 +13,12 @@ e-Sign Microservice is an open-source solution that allows businesses to securel
 
 ## Features
 
-- Securely sign documents online.
+- Securely sign documents.
+- Secured artifacts (Signed PDF Documents) that can’t be tampered with after digital signing.
 - Compliance with the e-Sign Act and Regulatory Standards.
 - Cost-efficient and scalable.
-- Built with a robust tech stack including Spring Boot, Java, AWS S3, and MySQL.
 - Channel-agnostic design for seamless integration across platforms.
+- Built with a tech stack including Spring Boot, Java, MySQL and other cloud services. 
 
 ## Demo
 https://github.com/iCreateWorks/esigning/assets/50334500/49dddfee-c9bb-4ef8-a762-037bc38fa56c
@@ -26,6 +27,7 @@ https://github.com/iCreateWorks/esigning/assets/50334500/a4c77f27-8919-4f4d-84d6
 
 Sample loan agreement: [Master-Promissory-Note.pdf](https://github.com/iCreateWorks/esigning/files/14389744/Loan-Agreement.pdf)
 
+Here is the article which talks about this implementation in detail: [From Dependency to Autonomy: Building an In-House E-signing Service](https://www.infoq.com/articles/electronic-signing-service-cloud/)
 
 ## Prerequisites
 
@@ -35,15 +37,15 @@ Sample loan agreement: [Master-Promissory-Note.pdf](https://github.com/iCreateWo
 
 ## Setup & Installation
 
-1. Clone the repository:
+1. **Clone the repository:** Use the command git clone https://github.com/iCreateWorks/esigning.git to clone the repository to your local machine.
 
-2. Navigate to the project directory:
+2. **Navigate to the project directory**.
  
-3. Install the required maven dependencies:
+3. **Install Maven dependencies:** Run _**'mvn install'**_ to install the necessary dependencies.
    
-4. Set up the required [Environment Variables](#environment-variables).
+4. **Configure Environment Variables:** Set up the required environment variables as described in the [Environment Variables](#environment-variables) section. 
 
-5. Run the application:
+5. **Run the application:** Execute **_java -jar target/esigning-0.0.1-SNAPSHOT.jar_** to start the service.
    
 ## Environment Variables
 
