@@ -16,7 +16,8 @@ e-Sign Microservice is an open-source solution that allows businesses to securel
 - Securely sign documents online.
 - Compliance with the e-Sign Act and Regulatory Standards.
 - Cost-efficient and scalable.
-- Built with a robust tech stack including Spring Boot, Java, AWS S3, and MySQL.
+- Secured artifacts (Signed PDF Documents) that can’t be tampered with after the digital signing 
+- Built with a robust tech stack including Spring Boot, Java, MySQL and other cloud services.
 - Channel-agnostic design for seamless integration across platforms.
 
 ## Demo
