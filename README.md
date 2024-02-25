@@ -14,7 +14,7 @@ e-Sign Microservice is an open-source solution that allows businesses to securel
 ## Features
 
 - Securely sign documents.
-- Secured artifacts (Signed PDF Documents) that can’t be tampered with, after the digital signing.
+- Secured artifacts (Signed PDF Documents) that can’t be tampered with after digital signing.
 - Compliance with the e-Sign Act and Regulatory Standards.
 - Cost-efficient and scalable.
 - Channel-agnostic design for seamless integration across platforms.
