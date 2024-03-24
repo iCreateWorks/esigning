@@ -55,3 +55,22 @@ To run this project, you will need to set the following environment variables:
 - `S3_BUCKET_NAME`: S3 bucket name.
 - `S3_BUCKET_REGION`: S3 bucket region.
 
+Following is the sample application.properties files, where environment variables have been replaced with actual sample values
+`server.port=8081` 
+`server.servlet.context-path=/api/e-sign/v1`<br/> 
+`spring.esign.datasource.jdbc-url=jdbc:mysql://localhost:3306/e-sign?allowPublicKeyRetrieval=true&useSSL=false`<br/> 
+`spring.esign.datasource.username=e-sign`<br/> 
+`spring.esign.datasource.password=Password1`<br/>
+`spring.esign.datasource.driver-class-name=com.mysql.cj.jdbc.Driver`<br/> 
+`spring.esign.datasource.minimumIdle=5`<br/>
+`spring.esign.datasource.maxLifetime=120000`<br/>
+`spring.jpa.database-platform = org.hibernate.dialect.MySQL5Dialect`<br/>
+`spring.jpa.properties.hibernate.proc.param_null_passing=true`<br/>
+
+`s3.bucket.name=esign-docs`<br/>
+`s3.bucket.region=us-east-1`<br/>
+
+`esign.entrust.keystore.passphrase=esignphasphrase`<br/>
+`esign.entrust.cert.path=/jks/entrust.p12`<br/>
+`esign.entrust.pdf.owner.password=esignpdfownerpassword`<br/>
+
