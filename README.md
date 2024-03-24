@@ -57,10 +57,10 @@ To run this project, you will need to set the following environment variables:
 
 Following is the sample application.properties files, where environment variables have been replaced with actual sample values
 `server.port=8081` 
-`server.servlet.context-path=/api/e-sign/v1` 
-`spring.esign.datasource.jdbc-url=jdbc:mysql://localhost:3306/e-sign?allowPublicKeyRetrieval=true&useSSL=false` 
-spring.esign.datasource.username=e-sign 
-spring.esign.datasource.password=Password1 
+`server.servlet.context-path=/api/e-sign/v1`<br/> 
+`spring.esign.datasource.jdbc-url=jdbc:mysql://localhost:3306/e-sign?allowPublicKeyRetrieval=true&useSSL=false`<br/> 
+spring.esign.datasource.username=e-sign<br/> 
+spring.esign.datasource.password=Password1<br/>
 spring.esign.datasource.driver-class-name=com.mysql.cj.jdbc.Driver 
 spring.esign.datasource.minimumIdle=5
 spring.esign.datasource.maxLifetime=120000
